@@ -1,0 +1,128 @@
+Introduction
+	How testing web applications is different 
+	The differences between web sites and applications
+	The differences between web applications and web services
+	How web services compliment web applications
+	Manual testing and test automation
+
+A technical understanding of the web
+	A brief history of the internet
+	Web sites & web pages
+	Browsers
+	URLs
+	HTML, JavaScript, CSS
+	Client/Server and N-Tier architecture
+	Networks
+		TCP/IP
+		Sockets
+	Undestanding HTTP
+		Requests & Responses
+		Request Methods (GET, POST, etc)
+		URIs
+		HTTP Headers
+		Content
+		MIME Types
+		Response status codes
+	Caching, Proxies, Firewalls, etc
+
+Testing web applications
+
+	Testing techniques using the browser
+		Browser plugins
+	Testing without the browser
+		Command line
+		Proxy
+	Verifying on the server
+		SQL
+		Log files
+
+	Testing tools
+		Browser plugins (REST client, Postman, Firebug)
+		Command line tools (telnet, wget, curl)
+		HTTP proxies (Fiddler, Charles)
+		Network packet analyzers (Wireshark)
+		Using firebug
+
+	Additional considerations for testing web applications
+		Testing the UI
+		Testing on different plantforms 
+			browsers, operating systems, and version
+		Troubleshooting network issues
+		Troubleshooting server-side issues
+		Testing Javascript & AJAX
+	
+	Troubleshooting test failures
+		From the client
+			ping
+			view source
+			HTTP status codes
+			Stack traces
+		From the server
+			SSH
+			viewing logs
+			monitoring the server
+
+	Security Testing
+		Input validation
+		SQL injection
+		Cross site scripting
+		HTTPS
+		Authentication
+
+	Testing single page web apps
+		Testing javascript & AJAX
+		AngularJS
+
+	Automating tests
+		Automating the browser (Selenium/Webdriver, QTP, SilkTest)
+		Simulating the browser (JMeter, HTMLUnit)
+		Avoiding the browser (testing at a lower level)
+
+	Using Selenium to create automation
+		Selenium IDE
+		XPATH & CSS Selectors
+		Selenium RC Webdriver
+		Using JUnit
+		Screenshots
+		Writing maintainable tests with Selenium
+			Page Objects
+		Distributed testing
+			Selenium Grid
+
+	Other considerations
+		Performance & load testing
+		Letency and concurrency
+
+	Considering which strategies to use for testing web applications
+
+Testing Web Services
+
+	Understanding web services
+	Differences between SOAP and REST
+		What is SOAP
+		What is REST	
+	RESTful web services explained
+		URIs
+		Request Methods
+		Resources
+		Mime Types
+		Headers
+		Content
+		XML or JSON
+		Caching 
+
+	Web applications using web services
+	
+	Mobile apps
+
+	Web services using other web services
+
+	Tools for testing web services
+		Using the browser
+		Browser plugins
+			REST client / Postman
+			JSON Viewer
+
+		Command line (telnet, wget)
+		Fiddler / Charles proxy
+		Curl

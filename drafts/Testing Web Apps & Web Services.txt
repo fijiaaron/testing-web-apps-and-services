@@ -1,0 +1,53 @@
+Testing Web Applications and Services
+
+	Introduction
+		How testing web applications is different 
+		The differences between web sites and applications
+		The differences between web applications and web services
+		How web services compliment web applications
+		Manual testing and test automation
+
+	A technical understanding of the web
+		A brief history of the internet
+		Web sites & web pages
+		Browsers
+		URLs
+		HTML, JavaScript, CSS
+		Client/Server architecture
+		Networks
+			TCP/IP
+			Sockets
+		Undestanding HTTP
+			Requests & Responses
+			Request Methods (GET, POST, etc)
+			URIs
+			HTTP Headers
+			Content
+			MIME Types
+			Response status codes
+		Caching, Proxies, Firewalls, etc
+	
+	Understanding web applications
+		Testing the UI
+		Testing on different plantforms 
+			browsers
+			operating systems
+			versions
+		Testing the network
+		Testing server-side changes
+		Testing controllers
+		Troublshooting network issues
+		Troubleshooting server-side issues
+		Testing javascript
+		AJAX
+
+	Strategies for testing web applications
+		
+	
+	Understanding web services
+		Differences between SOAP and REST
+		What is SOAP
+		What is REST	
+
+	Web applications using web services
+
