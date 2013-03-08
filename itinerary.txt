@@ -1,0 +1,30 @@
+9:00 - Introduction and differences between traditional apps, web apps, web services, etc.
+9:30 - Exercise: different testing methods and exploratory testing
+10:00 - A technical understanding of the web (networks, TCP/IP, routing, DNS)
+10:30 - Exercise: packet sniffing with wireshark, ping/traceroute/nslookup
+11:00 - Understanding HTTP
+11:30 - Exercise: command line tools: telnet/netcat/wget/curl, intro to Fiddler
+12:00 - Lunch
+1:00 - Testing Web apps
+1:30 - Exercise: browser plugins: Postman/Adv REST client
+2:00 - AngularJS
+2:30 - Exercise: testing with AngularJS
+3:00 - Server side troubleshooting
+3:30 - Exercise:  SSH and tail logs, bounce server, etc.
+4:00 - Testing web apps Lab/Q&A
+
+Day 2:
+9:00 - Understanding web services
+9:30 - Exercise: interacting with a web service using the command line, Fiddler
+10:00 - Testing RESTFUL web services
+10:30 - Exercise: write tests and execute with Fiddler
+11:00 -  Introduce SOAPUI
+11:30 - Exercise: using SOAPUI
+12:00 - Lunch
+1:00 - Writing reusable tests: BDD
+1:30 - Exercise: write a BDD test case
+2:00 -  Performance and Security Testing
+2:30 - Exercise:  Apache benchmark, JMeter, SQL Injection, cross-site scripting, spoofing with nmap
+3:00 - Testing web services Lab/Q&A
+
+I'll need to leave by 4:00 on Tuesday to catch a 6pm flight.
