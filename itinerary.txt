@@ -1,7 +1,7 @@
 9:00 - Introduction and differences between traditional apps, web apps, web services, etc.
 9:30 - Exercise: different testing methods and exploratory testing
 10:00 - A technical understanding of the web (networks, TCP/IP, routing, DNS)
-10:30 - Exercise: packet sniffing with wireshark, ping/traceroute/nslookup
+10:30 - Exercise: packet sniffing with wireshark, dns with ping/traceroute/nslookup
 11:00 - Understanding HTTP
 11:30 - Exercise: command line tools: telnet/netcat/wget/curl, intro to Fiddler
 12:00 - Lunch

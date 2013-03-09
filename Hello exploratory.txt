@@ -1,0 +1,37 @@
+Hello exploratory
+
+Hello world
+Query string - name
+Reload - goodbye
+Cookie - color of text
+Time - good morning
+Locale - g'day
+Https - basic auth
+Server crash - 
+500 - too long of a query string
+Injection - quotes in query string
+Hidden mouse over alert
+Post -  salutation 
+User agent - howdy
+Put - change message
+IP address - blocked
+Ssh tunnel
+Referer - how is so and so
+Browser - moz border radius
+Viewport size - wrap
+Network down - Ajax failure
+Too many requests - throttle
+View source 
+Database down
+JavaScript off
+Method not allowed
+Click on it
+.xml or .json
+Accept
+IP address vs host name - how did you get here
+Min width IE
+
+
+
+
+Sent from my iPhone
