@@ -1,16 +1,17 @@
 Hello exploratory
 
-Hello world
-Query string - name
-Reload - goodbye
-Cookie - color of text
-Time - good morning
++ Hello world
++ Query string - name
++ Reload - goodbye
++ test concurrency
++ Cookie - color of text
++ Time - good morning
 Locale - g'day
 Https - basic auth
 Server crash - 
 500 - too long of a query string
 Injection - quotes in query string
-Hidden mouse over alert
++ Hidden mouse over alert
 Post -  salutation 
 User agent - howdy
 Put - change message
