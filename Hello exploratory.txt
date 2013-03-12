@@ -3,8 +3,9 @@ Hello exploratory
 + Hello world
 + Query string - name
 + Reload - goodbye
-+ test concurrency
+	+ test concurrency
 + Cookie - color of text
+	- settings page to set cookie
 + Time - good morning
 + Locale - g'day
 Https
