@@ -6,19 +6,20 @@ Hello exploratory
 + test concurrency
 + Cookie - color of text
 + Time - good morning
-Locale - g'day
-Https - basic auth
++ Locale - g'day
+Https
+Basic auth
 Server crash - 
 500 - too long of a query string
 Injection - quotes in query string
 + Hidden mouse over alert
-Post -  salutation 
+Post -  salutation
 User agent - howdy
 Put - change message
 IP address - blocked
 Ssh tunnel
 Referer - how is so and so
-Browser - moz border radius
++ Browser compatibility - webkit border radius
 Viewport size - wrap
 Network down - Ajax failure
 Too many requests - throttle
