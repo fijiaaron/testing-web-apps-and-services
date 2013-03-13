@@ -1,0 +1,25 @@
+1.     PING, TRACEROUTE, NSLOOKUP, TELNET (available in windows, but may need enabled. A POSIX shell such as MSYS or Cygwin will also provide them, but GnuWin32 also has standalone binaries.)
+
+2.    TELNET http://gnuwin32.sourceforge.net/packages/inetutils.htm
+
+3.    WGET command line tool http://gnuwin32.sourceforge.net/packages/wget.htm
+
+4.    CURL command line client http://curl.haxx.se/download.html
+
+5.    NMAP port scanner - http://nmap.org/
+
+6.    WIRESHARK network packet analyzer - http://www.wireshark.org/
+
+7.    FIDDLER http proxy - http://www.fiddler2.com
+
+8.    SOAPUI web service testing framework- http://www.soapui.org/
+
+9.    ADVANCED REST CLIENT google chrome plugin - https://chrome.google.com/webstore
+
+10.  POSTMAN google chrome plugin -https://chrome.google.com/webstore/category/home
+
+11.  SELENIUM IDE test automation firefox extension (optional) - http://seleniumhq.org
+
+12.  PUTTY ssh client - http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
+
+ 
