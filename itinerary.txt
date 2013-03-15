@@ -12,20 +12,20 @@ Day 1:
 1:30 - Exercise: developer tools & browser plugins
 2:00 - Server side troubleshooting
 2:30 - Exercise:  SSH and tail logs, bounce server, etc.
-3:00 - Writing reusable tests: BDD
-3:30 - Exercise: write a BDD test case
+3:00 - AngularJS
+3:30 - Exercise: testing with AngularJS
 4:00 - Testing web apps Lab/Q&A
 
 Day 2:
-9:00 - Understanding web services
+9:00 - Web services explained
 9:30 - Exercise: interacting with a web service using the command line, Fiddler
 10:00 - Testing RESTFUL web services
 10:30 - Exercise: write tests and execute with Fiddler, Postman/Adv REST client
-11:00 -  Introduce SOAPUI
+11:00 - Introduce SOAPUI
 11:30 - Exercise: using SOAPUI
 12:00 - Lunch
-1:00 - AngularJS
-1:30 - Exercise: testing with AngularJS
+1:00 - Writing reusable tests: BDD
+1:30 - Exercise: write a BDD test case
 2:00 -  Performance and Security Testing
 2:30 - Exercise:  Apache benchmark, JMeter, SQL Injection, cross-site scripting, spoofing with nmap
 3:30 - Testing web services Lab/Q&A
